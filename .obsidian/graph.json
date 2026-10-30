@@ -1,0 +1,21 @@
+{
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "colorGroups": [
+    { "query": "path:docs/知識庫/工具", "color": { "a": 1, "rgb": 8353757 } },
+    { "query": "path:docs/知識庫/元件", "color": { "a": 1, "rgb": 1941109 } },
+    { "query": "path:docs/知識庫/技術", "color": { "a": 1, "rgb": 3640029 } },
+    { "query": "path:docs/知識庫/問題類型", "color": { "a": 1, "rgb": 14178864 } }
+  ],
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 200
+}

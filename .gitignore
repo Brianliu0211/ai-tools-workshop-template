@@ -1,0 +1,9 @@
+# 工坊 repo 只存規則與文件；每個工具資料夾是獨立的 git repo
+/[0-9][0-9]_*/
+/_archive/
+
+# 系統與編輯器
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian/workspace*.json
